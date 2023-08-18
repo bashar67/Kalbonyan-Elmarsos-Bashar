@@ -1,0 +1,85 @@
+.services {
+  background-image: url("../assets/services.png");
+  background-color: #dfdfdf;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding: 80px 80px;
+  font-family: "Lora", sans-serif;
+  color: #12273d;
+  position: relative;
+}
+
+.services .heading {
+  position: absolute;
+  top: 170px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.services .main-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.services .main-box .sec-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.services .main-box .sec-box .description {
+  font-size: 17px;
+  text-align: left;
+  font-weight: 600;
+}
+
+@media screen and (max-width: 980px) {
+  .services .main-box .sec-box .description {
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 887px) {
+  .services {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .services .main-box {
+    flex-direction: column;
+  }
+  .services .main-box .sec-box .description {
+    font-size: 16px;
+    text-align: center;
+    padding: 0 220px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .services h2 {
+    font-size: 90px;
+  }
+  .services .main-box .sec-box .description {
+    padding: 0 20px;
+  }
+}
+
+@media screen and (max-width: 441px) {
+  .services h2 {
+    font-size: 70px;
+  }
+  .services .heading {
+    top: 140px;
+  }
+}
+
+@media screen and (max-width: 363px) {
+  .services h2 {
+    font-size: 50px;
+  }
+  .services .heading {
+    top: 120px;
+  }
+}

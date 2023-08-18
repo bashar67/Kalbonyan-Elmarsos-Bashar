@@ -1,0 +1,92 @@
+.about {
+  font-family: "Lora", sans-serif;
+  padding: 80px 80px;
+}
+
+.about .text-box {
+  position: relative;
+}
+
+.about h2 {
+  font-size: 70px;
+  margin: 0;
+  color: #ebebeb;
+  margin-bottom: 50px;
+}
+
+.heading {
+  color: #741906;
+  font-size: 56px;
+  font-weight: 700;
+  position: absolute;
+  top: 35px;
+  left: 9px;
+}
+
+.img-box {
+  display: flex;
+  background: url("../assets/floor.png");
+  background-repeat: no-repeat;
+  background-size: 73%;
+  justify-content: center;
+}
+
+@media screen and (max-width: 925px) {
+  .about {
+    grid-template-columns: 1fr;
+  }
+  .about .img-box {
+    display: none;
+  }
+  .about h2 {
+    font-size: 100px;
+    text-align: center;
+  }
+  .about .heading {
+    font-size: 70px;
+    top: 70px;
+    left: 50%;
+    letter-spacing: 4px;
+    transform: translate(-50%, -50%);
+  }
+  .about .section-text {
+    font-size: 23px;
+    letter-spacing: 1.7px;
+    line-height: 1.5;
+    text-align: left;
+  }
+}
+
+@media screen and (max-width: 673px) {
+  .about {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .about h2 {
+    font-size: 70px;
+    width: 100%;
+    margin-bottom: 70px;
+  }
+  .about .section-text {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 518px) {
+  .about h2 {
+    font-size: 70px;
+  }
+}
+@media screen and (max-width: 406px) {
+  .about h2 {
+    font-size: 40px;
+  }
+  .about .heading {
+    font-size: 30px;
+    top: 40px;
+  }
+  .about .section-text {
+    font-size: 16px;
+  }
+}

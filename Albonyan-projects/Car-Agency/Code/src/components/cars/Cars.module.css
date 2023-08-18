@@ -1,0 +1,29 @@
+.cars {
+  background-color: #fff;
+  padding: 80px 80px;
+  font-family: "Lora", sans-serif;
+  position: relative;
+}
+
+.cars .heading {
+  left: 42%;
+}
+@media (max-width: 421px) {
+  .cars h2 {
+    font-size: 80px;
+    text-align: left;
+  }
+  .cars .heading {
+    top: 120px;
+    left: 35%;
+  }
+}
+
+@media (max-width: 357px) {
+  .cars h2 {
+    font-size: 70px;
+  }
+  .cars .heading {
+    top: 110px;
+  }
+}

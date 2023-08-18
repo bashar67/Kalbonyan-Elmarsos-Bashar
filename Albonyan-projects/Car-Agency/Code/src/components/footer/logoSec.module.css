@@ -1,0 +1,37 @@
+@media (max-width: 726px) {
+  .logos {
+    padding: 20px 20px;
+    flex-wrap: wrap;
+    row-gap: 30px;
+    column-gap: 100px;
+  }
+}
+
+@media (max-width: 692px) {
+  .logos {
+    column-gap: 70px;
+  }
+}
+
+@media (max-width: 602px) {
+  .logos {
+    column-gap: 50px;
+  }
+}
+
+@media (max-width: 542px) {
+  .logos {
+    column-gap: 40px;
+  }
+}
+
+@media (max-width: 512px) {
+  .logos {
+    column-gap: 10px;
+  }
+}
+@media (max-width: 400px) {
+  .logos {
+    column-gap: 0;
+  }
+}

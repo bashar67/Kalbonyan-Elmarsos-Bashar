@@ -1,0 +1,14 @@
+.header-cart-button {
+  position: absolute;
+  padding: 0 10px;
+  background-color: #f8d7a4;
+  color: #223f5c;
+  font-weight: bold;
+  font-size: 18px;
+  top: 18px;
+  border-radius: 4px;
+}
+
+.bump {
+  animation: bump 300ms ease-out;
+}

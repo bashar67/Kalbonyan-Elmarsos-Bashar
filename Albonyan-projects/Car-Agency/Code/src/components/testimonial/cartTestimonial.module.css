@@ -1,0 +1,156 @@
+.testimonial-cart-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #fff;
+  box-shadow: 5px 15px 33px rgba(0, 0, 0, 0.1);
+  padding: 25px 50px;
+  margin: 70px 140px;
+  position: relative;
+  /* height: 300px; */
+}
+
+.testimonial-cart-box > p {
+  font-size: 22px;
+  font-family: "Lato", sans-serif;
+  text-align: center;
+  color: #272727;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.testimonial-cart-box .person-name {
+  font-size: 32px;
+  color: #12273d;
+  font-weight: 700;
+  font-family: "Nunito Sans", sans-serif;
+  margin: 0 auto;
+}
+
+.img-box {
+  position: absolute;
+  bottom: -60px;
+  right: -110px;
+  width: 250px;
+}
+
+@media (max-width: 867px) {
+  .testimonial-cart-box > p {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 808px) {
+  .testimonial-cart-box > p {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 755px) {
+  .testimonial-cart-box {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 80px;
+    margin-right: 80px;
+  }
+  .testimonial-cart-box > p {
+    font-size: 14px;
+  }
+
+  .testimonial-cart-box .img-box {
+    width: 200px;
+    right: -90px;
+  }
+}
+
+@media (max-width: 657px) {
+  .testimonial-cart-box > p {
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .testimonial-cart-box {
+    /* margin: 20px 50px; */
+  }
+
+  .testimonial-cart-box .img-box {
+    width: 200px;
+    right: -40px;
+  }
+}
+
+@media (max-width: 565px) {
+  .testimonial-cart-box > p {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 8px;
+  }
+  .testimonial-cart-box {
+    margin: 70px 25px;
+  }
+
+  .testimonial-cart-box .img-box {
+    width: 200px;
+    right: -20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .testimonial-cart-box .img-box {
+    width: 150px;
+    bottom: -20px;
+    right: -20px;
+  }
+}
+
+@media (max-width: 459px) {
+  .testimonial-cart-box .img-box {
+    width: 150px;
+    bottom: -20px;
+    right: -15px;
+  }
+}
+
+@media (max-width: 445px) {
+  .testimonial-cart-box {
+    height: 300px;
+  }
+  .testimonial-cart-box > p {
+    font-size: 14px;
+  }
+  .testimonial-cart-box .img-box {
+    bottom: -40px;
+    right: -40px;
+  }
+  .testimonial-cart-box .stars svg {
+    width: 80px;
+  }
+}
+
+@media (max-width: 405px) {
+  .testimonial-cart-box {
+    padding-top: 0;
+    padding-bottom: 0;
+    justify-content: flex-start;
+  }
+  .testimonial-cart-box > p {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 355px) {
+  .testimonial-cart-box {
+    padding: 4px 4px;
+  }
+  .testimonial-cart-box > p {
+    font-size: 11px;
+    text-align: left;
+  }
+}
+
+@media (max-width: 326px) {
+  .testimonial-cart-box > p {
+    font-size: 10px;
+  }
+}

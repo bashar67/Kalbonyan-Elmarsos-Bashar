@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital@0;1&family=Nunito+Sans:wght@300;400;500;600;700;800&display=swap");
+
+.testimonial {
+  background-color: #12273d;
+  padding: 60px 80px;
+  position: relative;
+  font-family: "Lora", sans-serif;
+}
+
+.testimonial h2 {
+  font-size: 120px;
+  margin: 0;
+  text-align: center;
+  color: #ebebeb;
+  opacity: 5%;
+  font-weight: 700;
+}
+
+.testimonial > p {
+  position: absolute;
+  font-size: 48px;
+  font-weight: 700;
+  color: #fff;
+  /* top: 113px;
+  left: 537px; */
+  left: 50%;
+  top: 25%;
+  transform: translate(-50%, -50%);
+}
+
+@media (max-width: 950px) {
+  .testimonial h2 {
+    font-size: 80px;
+  }
+
+  .testimonial > p {
+    top: 20%;
+  }
+}
+
+@media (max-width: 657px) {
+  .testimonial h2 {
+    font-size: 60px;
+  }
+
+  .testimonial > p {
+    top: 20%;
+  }
+}
+
+@media (max-width: 503px) {
+  .testimonial h2 {
+    font-size: 50px;
+  }
+
+  .testimonial > p {
+    top: 18%;
+  }
+}
+@media (max-width: 432px) {
+  .testimonial h2 {
+    font-size: 40px;
+  }
+
+  .testimonial > p {
+    font-size: 30px;
+    top: 18%;
+  }
+}
+
+@media (max-width: 361px) {
+  .testimonial h2 {
+    font-size: 30px;
+  }
+
+  .testimonial > p {
+    font-size: 20px;
+    top: 15%;
+  }
+}

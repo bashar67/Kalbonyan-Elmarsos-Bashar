@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Noto+Sans:wght@400;500;700&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+
+.landing {
+  background-image: url("../assets/Background.png");
+  background-size: cover;
+  font-family: "Lora", sans-serif;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.landing .landing-box {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.text-box {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 30px;
+  padding: 0px 40px 0 150px;
+}
+.landing .text-box h1 {
+  font-size: 47px;
+  color: #fff;
+  font-weight: bold;
+}
+.landing .text-box p {
+  font-size: 27px;
+  color: #fff;
+  font-weight: bold;
+}
+.landing .text-box > div {
+  text-align: center;
+  letter-spacing: 2px;
+}
+.landing .text-box button {
+  font-size: 20px;
+  color: #fff;
+  font-weight: bold;
+  border: 3px solid #fff;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 10px 30px;
+  margin-left: 260px;
+  border-radius: 7px;
+}
+
+@media screen and (max-width: 822px) {
+  .landing .landing-box {
+    grid-template-columns: 1fr;
+  }
+  .landing .landing-box .text-box {
+    padding: 0;
+    align-items: center;
+    gap: 100px;
+  }
+
+  .landing .landing-box h1 {
+    text-align: center;
+    font-size: 53px;
+    padding: 0 65px;
+  }
+
+  .landing .landing-box .text-box p {
+    background-color: rgba(14, 12, 11, 0.46);
+    font-size: 28px;
+    padding: 0 50px;
+    margin: 0 20px;
+  }
+  .landing .text-box button {
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .landing .landing-box h1 {
+    font-size: 40px;
+  }
+  .landing .landing-box .text-box p {
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 421px) {
+  .landing .landing-box .text-box {
+    gap: 40px;
+  }
+}
+
+@media screen and (max-width: 385px) {
+  .landing .landing-box h1 {
+    font-size: 40px;
+    padding: 0;
+  }
+  .landing .landing-box .text-box {
+    gap: 20px;
+  }
+}
