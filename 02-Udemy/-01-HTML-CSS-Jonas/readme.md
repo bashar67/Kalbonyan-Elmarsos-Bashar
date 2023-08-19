@@ -19,4 +19,4 @@
 ---
 [Course-Link](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)<br>
 
-![Certificate]([02-Udemy/-01-HTML-CSS-Jonas/html&css.jpg](https://drive.google.com/file/d/1tfDI_4I-vmffVW_4zL8VX5pfscRfK525/view?usp=sharing)https://drive.google.com/file/d/1tfDI_4I-vmffVW_4zL8VX5pfscRfK525/view?usp=sharing)
+![Certificate](https://drive.google.com/file/d/1tfDI_4I-vmffVW_4zL8VX5pfscRfK525/view)
