@@ -7,7 +7,7 @@
 
 ### Guees my number
 
-- [Project Code](./Projects/01-gusse-my-number/)
+- [Project Code](./Projects/01-guess-my-number)
 - [Live Demo](guess-my-number-bashar.netlify.app)
 
 ### Bankist
