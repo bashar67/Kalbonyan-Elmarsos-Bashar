@@ -12,12 +12,12 @@
 
 ### Bankist
 
-- [Project Code](./Projects/02-Favorite-Movies/)
+- [Project Code](./Projects/02-Bankist)
 - [Live Demo](https://bankist-bashar.netlify.app)
 
 ### Mapty
 
-- [Project Code](./Projects/03-Mini-Shop/)
+- [Project Code](./Projects/03-Mapty)
 - [Live Demo](mapty-bashar.netlify.app)
 
 
