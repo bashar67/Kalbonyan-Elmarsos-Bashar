@@ -1,40 +1,26 @@
-# JavaScript - The Complete Guide 2023 (Beginner + Advanced)
+# JavaScript -The Complete JavaScript Course 2023: From Zero to Expert!
+
 
 ---
 
 ## Projects
 
-### Calculator (S6)
+### Guees my number
 
 - [Project Code](./Projects/01-Calculator/)
-- [Live Demo]()
+- [Live Demo](guess-my-number-bashar.netlify.app)
 
-### Favorite Movies (S7)
+### Bankist
 
 - [Project Code](./Projects/02-Favorite-Movies/)
-- [Live Demo]()
+- [Live Demo](https://bankist-bashar.netlify.app)
 
-### Mini Shop (S10)
+### Mapty
 
 - [Project Code](./Projects/03-Mini-Shop/)
-- [Live Demo]()
+- [Live Demo](mapty-bashar.netlify.app)
 
-### Project Planner (S14)
 
-- [Project Code](./Projects/04-Project-Planner/)
-- [Live Demo]()
-
-### Posts (S19)
-
-- [Project Code](./Projects/05-Posts/)
-- [Live Demo]()
-
-### Map (S29)
-
-- [Project Code](./Projects/06-Map/)
-- [Live Demo]()
-
----
 
 ## Code
 
@@ -43,7 +29,7 @@
 
 ---
 
-[Course-Link](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)<br>
+[Course-Link](https://www.udemy.com/share/101WeY3@jzb6XafNhxjWxvYrMiIUNufMKe-Gw-0HDCvDfA6uUfVPZVvBL6nUEc-6UYHUhfOlyQ==/)<br>
 
 ![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
 <br>
