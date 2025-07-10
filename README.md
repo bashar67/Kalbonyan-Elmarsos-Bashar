@@ -67,16 +67,16 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 - ## ReactJs
 
-- [x] `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](02-Udemy/-04-Reactjs-Maximilian/)
+- [x] `Done` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](02-Udemy/-04-Reactjs-Maximilian/)
 
 - ## NodeJs
 
-- [x] `in progress` `40h 31m` - 15 - [Complete NodeJS Developer in 2023 (GraphQL, MongoDB, + more)
+- [x] `Done` `40h 31m` - 15 - [Complete NodeJS Developer in 2023 (GraphQL, MongoDB, + more)
 )](02-Udemy/-05-Nodejs-Maximilian/)
 
 - ## Mern
 
-- [x] `in progress` `20h 32m` - 15 - [MERN Stack Course 2022 - MongoDB, Express, React and NodeJS](02-Udemy/-06-MERN-Jobify/)
+- [x] `Done` `20h 32m` - 15 - [MERN Stack Course 2022 - MongoDB, Express, React and NodeJS](02-Udemy/-06-MERN-Jobify/)
       <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-109h1m-blue">
@@ -89,22 +89,22 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # LEARN ABOUT CLOUD PROVIDER and SERVERLESS
 
-![50%](https://progress-bar.dev/50/?title=Done)
+![0%](https://progress-bar.dev/0/?title=Done)
 
-- [ ] `in progress` `16h12m` - 16 - [AWS Certified Cloud Practitioner (CLF-C01)](<03-aCloudGuru/AWS%20Certified%20Cloud%20Practitioner%20(CLF-C01)/>)
-- [X] `in progress` `4h27m` - 17 - [Serverless Functions with Netlify | YouTube ](04-Serverless-Functions-Netlify)
+- [] `in progress` `16h12m` - 16 - [AWS Certified Cloud Practitioner (CLF-C01)](<03-aCloudGuru/AWS%20Certified%20Cloud%20Practitioner%20(CLF-C01)/>)
+- [] `in progress` `4h27m` - 17 - [Serverless Functions with Netlify | YouTube ](04-Serverless-Functions-Netlify)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-20h39m-blue">
 <br />
 
 # Projects
 
-![100%](https://progress-bar.dev/100/?title=Done)
+![75%](https://progress-bar.dev/75/?title=Done)
 |status| Project  | Technologies | Repository                                    | Demo |
 | ---  | -------- | ------------ | --------------------------------------------- | ---- |
 | [X]  | Project 1| HTML CSS     | [Appie](Albonyan-projects/Appie/)             | [Demo](https://bashar-appie.netlify.app) |
 | [X]  | Project 2| HTML CSS JS  | [Kanban Board](Albonyan-projects/Kanban-Board/)| [Demo](https://kanpan-board-bashar.netlify.app) |
 | [X]  | Project 3| React js     | [Car Agency](Albonyan-projects/Car-Agency/)   | [Demo](https://your-car-bashar.netlify.app) |
-| [X] | Project 4| MERN         | [Note App](Albonyan-projects/Note-App/)       | [Demo]() |
+| [] | Project 4| MERN         | [Note App](Albonyan-projects/Note-App/)       | [Demo]() |
 
 
