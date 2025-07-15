@@ -31,5 +31,5 @@
 
 [Course-Link](https://www.udemy.com/share/101WeY3@jzb6XafNhxjWxvYrMiIUNufMKe-Gw-0HDCvDfA6uUfVPZVvBL6nUEc-6UYHUhfOlyQ==/)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+![Certificate](../my-certifications/js-main.jpg)
 <br>
